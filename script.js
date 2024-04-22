@@ -12,7 +12,7 @@ init();
 
 function init() {
   indexImg = 1;
-  img.src = `img1.png`;
+  img.src = `./img/img1.png`;
 
   generateGuessSection();
   generateButtons();
@@ -39,7 +39,7 @@ function generateGuessSection() {
 
   function wrongAnswer() {
     indexImg++;
-    img.src = `img${indexImg}.png`;
+    img.src = `./img/img${indexImg}.png`;
 
     if(indexImg == 7) {
       setTimeout(() => {

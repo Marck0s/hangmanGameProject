@@ -1,12 +1,12 @@
 # Hangman
 
-![preview](./.github/First.png)
+![preview](./img/img0.png)
 
 > Hangman Game
 
 Projeto construído com base no canal Will Dev.
 
-[🔗Clique aqui para acessar](https://marck0s.github.io/uploadFirstProject)
+[🔗Clique aqui para acessar](https://marck0s.github.io/hangmanGameProject/)
 
 ## 💻 Tecnologias
 
